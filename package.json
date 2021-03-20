@@ -2,7 +2,7 @@
     "name": "project",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Komronbek17.github.io/Catch-The-Animal",
+    "homepage": "https://Komronbek17.github.io/catch-animal-game",
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
