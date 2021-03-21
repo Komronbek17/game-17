@@ -2,15 +2,15 @@
     "name": "project",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Komronbek17.github.io/catch-animal-game",
+    "homepage": "https://Komronbek17.github.io/game-17",
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
         "deploy": "gh-pages -d dist"
-
     },
     "dependencies": {
         "core-js": "^3.6.5",
+        "gh-pages": "^3.1.0",
         "vue": "^3.0.0"
     },
     "devDependencies": {
